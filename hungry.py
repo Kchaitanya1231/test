@@ -1,5 +1,6 @@
-result = input("Is India winning")
+result = input("Is the match still continuing?")
 if result=="yes":
-    print("Ind : Aus 1-0")
+    print("2nd Session is going on")
 else:
-    print("Ind : Aus 0-1")
+    print("The day's play has ended")
+
